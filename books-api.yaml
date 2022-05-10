@@ -1,0 +1,88 @@
+openapi: 3.0.2
+info:
+  title: Books View
+  version: ''
+  description: Books View
+paths:
+  /books/:
+    get:
+      operationId: listBooks
+      description: This is an API endpoint that allows books to be viewed.
+      parameters:
+      - name: page
+        required: false
+        in: query
+        description: A page number within the paginated result set.
+        schema:
+          type: integer
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  count:
+                    type: integer
+                    example: 123
+                  next:
+                    type: string
+                    nullable: true
+                  previous:
+                    type: string
+                    nullable: true
+                  results:
+                    type: array
+                    items:
+                      properties:
+                        id:
+                          type: string
+                          readOnly: true
+                        title:
+                          type: string
+                          nullable: true
+                          maxLength: 1024
+                        authors:
+                          type: array
+                          items:
+                            properties:
+                              name:
+                                type: string
+                                maxLength: 128
+                              birth_year:
+                                type: integer
+                                maximum: 32767
+                                minimum: -32768
+                                nullable: true
+                              death_year:
+                                type: integer
+                                maximum: 32767
+                                minimum: -32768
+                                nullable: true
+                            required:
+                            - name
+                        subjects:
+                          type: string
+                          readOnly: true
+                        bookshelves:
+                          type: string
+                          readOnly: true
+                        languages:
+                          type: string
+                          readOnly: true
+                        media_type:
+                          type: string
+                          maxLength: 16
+                        formats:
+                          type: string
+                          readOnly: true
+                        download_count:
+                          type: integer
+                          maximum: 2147483647
+                          nullable: true
+                          minimum: 0
+                      required:
+                      - authors
+                      - media_type
+          description: ''
+   '

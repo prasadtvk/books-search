@@ -1,0 +1,70 @@
+INFO-2022-05-09 18:54:49,437-views.py-BookViewSet-11-14920-MainThread-Entering into method
+INFO-2022-05-09 18:54:52,281-views.py-BookViewSet-12-1804-MainThread-Entering into method
+INFO-2022-05-09 18:54:55,125-views.py-BookViewSet-13-6408-MainThread-Entering into method
+INFO-2022-05-09 18:57:14,090-views.py-get_queryset-23-14664-Thread-1-Entering into method
+INFO-2022-05-09 18:57:14,276-views.py-get_queryset-23-14664-Thread-1-Entering into method
+INFO-2022-05-09 19:02:31,231-views.py-get_queryset-23-7392-Thread-1-Entering into method
+DEBUG-2022-05-09 19:02:31,232-views.py-get_queryset-30-7392-Thread-1-Filter criteria is provided is ids 1,2,3,4,5,6,7,8,9,10,11,12,13
+DEBUG-2022-05-09 19:02:31,233-views.py-get_queryset-41-7392-Thread-1-Filter criteria is provided is language None
+DEBUG-2022-05-09 19:02:31,235-views.py-get_queryset-48-7392-Thread-1-Filter criteria is provided is mime_type None
+DEBUG-2022-05-09 19:02:31,235-views.py-get_queryset-54-7392-Thread-1-Filter criteria is provided is topic None
+DEBUG-2022-05-09 19:02:31,235-views.py-get_queryset-62-7392-Thread-1-Filter criteria is provided is author None
+DEBUG-2022-05-09 19:02:31,236-views.py-get_queryset-68-7392-Thread-1-Filter criteria is provided is title None
+INFO-2022-05-09 19:02:31,415-views.py-get_queryset-23-7392-Thread-1-Entering into method
+DEBUG-2022-05-09 19:02:31,415-views.py-get_queryset-30-7392-Thread-1-Filter criteria is provided is ids 1,2,3,4,5,6,7,8,9,10,11,12,13
+DEBUG-2022-05-09 19:02:31,415-views.py-get_queryset-41-7392-Thread-1-Filter criteria is provided is language None
+DEBUG-2022-05-09 19:02:31,415-views.py-get_queryset-48-7392-Thread-1-Filter criteria is provided is mime_type None
+DEBUG-2022-05-09 19:02:31,416-views.py-get_queryset-54-7392-Thread-1-Filter criteria is provided is topic None
+DEBUG-2022-05-09 19:02:31,416-views.py-get_queryset-62-7392-Thread-1-Filter criteria is provided is author None
+DEBUG-2022-05-09 19:02:31,417-views.py-get_queryset-68-7392-Thread-1-Filter criteria is provided is title None
+INFO-2022-05-09 19:03:46,085-views.py-get_queryset-23-4616-Thread-1-Entering into method
+DEBUG-2022-05-09 19:03:46,086-views.py-get_queryset-31-4616-Thread-1-Filter criteria is provided is ids 1,2,3,4,5,6,7,8,9,10,11,12,13
+INFO-2022-05-09 19:03:46,279-views.py-get_queryset-23-4616-Thread-1-Entering into method
+DEBUG-2022-05-09 19:03:46,279-views.py-get_queryset-31-4616-Thread-1-Filter criteria is provided is ids 1,2,3,4,5,6,7,8,9,10,11,12,13
+INFO-2022-05-09 19:04:16,192-views.py-get_queryset-23-4616-Thread-1-Entering into method
+DEBUG-2022-05-09 19:04:16,193-views.py-get_queryset-69-4616-Thread-1-Filter criteria is provided is title child
+INFO-2022-05-09 19:04:19,320-views.py-get_queryset-23-4616-Thread-1-Entering into method
+DEBUG-2022-05-09 19:04:19,320-views.py-get_queryset-69-4616-Thread-1-Filter criteria is provided is title child
+INFO-2022-05-09 19:05:02,250-views.py-get_queryset-23-4616-Thread-1-Entering into method
+DEBUG-2022-05-09 19:05:02,251-views.py-get_queryset-69-4616-Thread-1-Filter criteria is provided is title child
+INFO-2022-05-09 19:05:03,118-views.py-get_queryset-23-4616-Thread-1-Entering into method
+DEBUG-2022-05-09 19:05:03,119-views.py-get_queryset-69-4616-Thread-1-Filter criteria is provided is title child
+INFO-2022-05-10 09:57:05,688-views.py-get_queryset-23-22504-Thread-10-Entering into method
+INFO-2022-05-10 09:57:08,994-views.py-get_queryset-23-22504-Thread-10-Entering into method
+INFO-2022-05-10 09:57:13,123-views.py-get_queryset-23-22504-Thread-10-Entering into method
+DEBUG-2022-05-10 09:57:13,123-views.py-get_queryset-31-22504-Thread-10-Filter criteria is provided is ids 1,2,3,4,5,6,7,8,9,10,11,12,13
+INFO-2022-05-10 09:57:13,393-views.py-get_queryset-23-22504-Thread-10-Entering into method
+DEBUG-2022-05-10 09:57:13,394-views.py-get_queryset-31-22504-Thread-10-Filter criteria is provided is ids 1,2,3,4,5,6,7,8,9,10,11,12,13
+INFO-2022-05-10 09:58:05,124-views.py-get_queryset-23-22504-Thread-10-Entering into method
+DEBUG-2022-05-10 09:58:05,129-views.py-get_queryset-55-22504-Thread-10-Filter criteria is provided is topic science
+INFO-2022-05-10 09:58:09,581-views.py-get_queryset-23-22504-Thread-10-Entering into method
+DEBUG-2022-05-10 09:58:09,581-views.py-get_queryset-55-22504-Thread-10-Filter criteria is provided is topic science
+INFO-2022-05-10 09:58:21,314-views.py-get_queryset-23-22504-Thread-10-Entering into method
+DEBUG-2022-05-10 09:58:21,322-views.py-get_queryset-55-22504-Thread-10-Filter criteria is provided is topic science
+INFO-2022-05-10 09:58:23,659-views.py-get_queryset-23-22504-Thread-10-Entering into method
+DEBUG-2022-05-10 09:58:23,659-views.py-get_queryset-55-22504-Thread-10-Filter criteria is provided is topic science
+INFO-2022-05-10 09:59:42,394-views.py-get_queryset-23-22504-Thread-10-Entering into method
+DEBUG-2022-05-10 09:59:42,409-views.py-get_queryset-55-22504-Thread-10-Filter criteria is provided is topic science
+INFO-2022-05-10 09:59:43,183-views.py-get_queryset-23-23124-Thread-11-Entering into method
+DEBUG-2022-05-10 09:59:43,185-views.py-get_queryset-55-23124-Thread-11-Filter criteria is provided is topic science
+INFO-2022-05-10 09:59:45,163-views.py-get_queryset-23-22504-Thread-10-Entering into method
+DEBUG-2022-05-10 09:59:45,165-views.py-get_queryset-55-22504-Thread-10-Filter criteria is provided is topic science
+INFO-2022-05-10 09:59:46,121-views.py-get_queryset-23-23124-Thread-11-Entering into method
+DEBUG-2022-05-10 09:59:46,121-views.py-get_queryset-55-23124-Thread-11-Filter criteria is provided is topic science
+INFO-2022-05-10 11:47:08,559-views.py-get_queryset-22-14324-Thread-2-Entering into method
+DEBUG-2022-05-10 11:47:08,560-views.py-get_queryset-54-14324-Thread-2-Filter criteria is provided is topic science
+INFO-2022-05-10 11:47:11,381-views.py-get_queryset-22-14324-Thread-2-Entering into method
+DEBUG-2022-05-10 11:47:11,382-views.py-get_queryset-54-14324-Thread-2-Filter criteria is provided is topic science
+INFO-2022-05-10 11:47:31,360-views.py-get_queryset-22-14324-Thread-2-Entering into method
+DEBUG-2022-05-10 11:47:31,362-views.py-get_queryset-54-14324-Thread-2-Filter criteria is provided is topic maths
+INFO-2022-05-10 11:47:46,083-views.py-get_queryset-22-14324-Thread-2-Entering into method
+DEBUG-2022-05-10 11:47:46,084-views.py-get_queryset-54-14324-Thread-2-Filter criteria is provided is topic maths
+INFO-2022-05-10 11:47:47,028-views.py-get_queryset-22-14324-Thread-2-Entering into method
+DEBUG-2022-05-10 11:47:47,029-views.py-get_queryset-54-14324-Thread-2-Filter criteria is provided is topic maths
+INFO-2022-05-10 11:47:58,756-views.py-get_queryset-22-14324-Thread-2-Entering into method
+DEBUG-2022-05-10 11:47:58,757-views.py-get_queryset-54-14324-Thread-2-Filter criteria is provided is topic fiction
+INFO-2022-05-10 11:48:02,619-views.py-get_queryset-22-14324-Thread-2-Entering into method
+DEBUG-2022-05-10 11:48:02,620-views.py-get_queryset-54-14324-Thread-2-Filter criteria is provided is topic fiction
+INFO-2022-05-10 12:08:20,040-views.py-get_queryset-22-18840-Thread-1-Entering into method
+INFO-2022-05-10 12:08:21,404-views.py-get_queryset-22-18840-Thread-1-Entering into method
+INFO-2022-05-10 12:08:33,463-views.py-get_queryset-22-18840-Thread-1-Entering into method

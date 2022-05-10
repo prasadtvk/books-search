@@ -160,7 +160,7 @@ LOGGING = {
          },
     },
     'loggers': {
-           'books': {
+           'books': { 
                 'handlers': ['file', 'console'],
                 'level': 'DEBUG',
                 'propagate': True,
